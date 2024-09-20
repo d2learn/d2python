@@ -1,0 +1,13 @@
+[book]
+title = "动手学Python | d2python"
+author = "d2learn-org"
+language = "zh"
+
+[build]
+build-dir = "book"
+
+[output.html]
+git-repository-url = "https://github.com/d2learn/d2python"
+
+[preprocessor.foo]
+# Add any additional configurations

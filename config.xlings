@@ -1,0 +1,5 @@
+xlings_name = "pylings"
+xlings_lang = "python"
+xlings_editor = "vscode"
+xlings_deps = "mdbook, vscode, python"
+--xlings_llm_config = "llm.config.xlings" -- llm-config-file path
